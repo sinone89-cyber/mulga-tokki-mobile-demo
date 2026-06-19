@@ -1,0 +1,15 @@
+{
+  "name": "물가의 토끼",
+  "short_name": "물가의토끼",
+  "description": "아늑한 방치형 낚시 게임",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08131f",
+  "theme_color": "#08131f",
+  "icons": [
+    { "src": "fishing/ui/coin.png", "sizes": "256x256", "type": "image/png", "purpose": "any" },
+    { "src": "fishing/ui/coin.png", "sizes": "256x256", "type": "image/png", "purpose": "maskable" }
+  ]
+}

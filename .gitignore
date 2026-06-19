@@ -1,0 +1,5 @@
+# 물가의 토끼 모바일 — 단독 레포
+**/Thumbs.db
+**/.DS_Store
+/_*.log
+/dist/
